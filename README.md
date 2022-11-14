@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Diego De La Torre</h1>
 <h3 align="center">A passionate frontend developer from León, Guanajuato.</h3>
-<img src="[img_girl.jpg](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="Hola mundo" width="500" height="600">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Hola mundo" width="500" height="600">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desarrolloti12&label=Profile%20views&color=0e75b6&style=flat" alt="desarrolloti12" /> </p>
 
