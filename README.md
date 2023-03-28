@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desarrolloti12&label=Profile%20views&color=0e75b6&style=flat" alt="desarrolloti12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=desarrolloti12" alt="desarrolloti12" /></a> </p>
-
 - 🔭 I’m currently working on **Grupo Castores**
 
 - 🌱 I’m currently learning **Angular and Spring Boot**
