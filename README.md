@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Diego De La Torre</h1>
 <h3 align="center">A passionate frontend developer from León, Guanajuato.</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Hola mundo" width="700" height="500">
 
 
 - 🔭 I’m currently working on **Grupo Castores**
@@ -26,11 +25,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I am Funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=desarrolloti12&show_icons=true&locale=en&layout=compact" alt="desarrolloti12" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=desarrolloti12&show_icons=true&locale=en" alt="desarrolloti12" /></p>
 
