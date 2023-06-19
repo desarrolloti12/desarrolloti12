@@ -14,14 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Diego De La Torre</h1>
-<h3 align="center">A passionate frontend developer from León, Guanajuato.</h3>
+<h3 align="center">A passionate backend developer from León, Guanajuato.</h3>
 
 
 - 🔭 I’m currently working on **Grupo Castores**
-
-- 🌱 I’m currently learning **Angular and Spring Boot**
-
-- 📫 How to reach me **diegohans96@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
