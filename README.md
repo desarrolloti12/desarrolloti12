@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Grupo Castores**
 
-- ⚡ Fun fact **I am Funny**
 
 
